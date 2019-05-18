@@ -146,7 +146,6 @@ func printCheck(name string,num string,sum int){
 	fmt.Printf("Sum: %d\n",sum)
 // Тут дата
 	dt := time.Now()
-	fmt.Println(dt.String())
     fmt.Println("Current date and time is: ", dt.Format("2006-01-02 15:04:05"))
 	fmt.Println("OperationStatus: Successful")
 	fmt.Println("--------------------")
