@@ -1,8 +1,8 @@
-Привести в порядок git репозиторий Home_task
+п»їРџСЂРёРІРµСЃС‚Рё РІ РїРѕСЂСЏРґРѕРє git СЂРµРїРѕР·РёС‚РѕСЂРёР№ Home_task
 
-Д.З.
+Р”.Р—.
 
-1. Создать терминал оплты платежей
+1. РЎРѕР·РґР°С‚СЊ С‚РµСЂРјРёРЅР°Р» РѕРїР»С‚С‹ РїР»Р°С‚РµР¶РµР№
 
 Welcome to out pay terminal!
 
@@ -12,15 +12,15 @@ Choose your operator:
 3 - Babilon
 4 - Tcell
 
-Если другая цифра - Please, choose right operator number
+Р•СЃР»Рё РґСЂСѓРіР°СЏ С†РёС„СЂР° - Please, choose right operator number
 
 Enter your number (Operator): 9198498498
 
-Если другой номер - Please, enter right operator number
+Р•СЃР»Рё РґСЂСѓРіРѕР№ РЅРѕРјРµСЂ - Please, enter right operator number
 
 Enter sum:
 
-если сумма меньше 0 - Please, enter right sum > 0
+РµСЃР»Рё СЃСѓРјРјР° РјРµРЅСЊС€Рµ 0 - Please, enter right sum > 0
 
 ------------------------------
 Operator: Megafon
@@ -30,4 +30,4 @@ Data: 15.06.2019 4:58
 OperationStatus: Successful
 ------------------------------
 
-2. изучить библеотеку time, Strings, Split, replace, repeat
+2. РёР·СѓС‡РёС‚СЊ Р±РёР±Р»РµРѕС‚РµРєСѓ time, Strings, Split, replace, repeat
