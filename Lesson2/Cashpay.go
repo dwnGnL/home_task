@@ -64,20 +64,6 @@ func main(){
 				for sum_ready{
 				fmt.Print("Enter sum:")
 				fmt.Scan(&sum)
-
-				// exit, _ := strconv.Atoi(sum)
-				
-				// 	if sum=="esc" {
-				// 		os.Exit(1)
-				// 	}
-				// 	if exit<=0 {
-				// 		fmt.Println("Please, enter right sum > 0") 
-				// 	}
-				// 	if exit>0{
-				// 		sum_ready=false
-				// 	}
-			
-
 				
 				 if sum<=0 {
 					fmt.Print("Please, enter right sum > 0")
